@@ -8607,3 +8607,8 @@ input, select, textarea {
 		.limited {
 			color: rgba(214, 40, 57, 1)
 		}
+
+
+		.logo {
+			max-width: 15%;
+		}
